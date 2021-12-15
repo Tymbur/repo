@@ -1,3 +1,3 @@
 # Saily Beta Repo
 
-This repo contains release for Saily Package Manager.
+This repo contains **beta** release for Saily Package Manager.
