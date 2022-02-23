@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: CODENAME_HERE
 Components: main
-Date: Mon, 07 Feb 2022 10:13:51 +0000
+Date: Wed, 23 Feb 2022 08:43:58 +0000
 Description: This repo contains release for Saily Package Manager.
 Label: Saily
 Origin: Saily
@@ -10,16 +10,16 @@ Version: 1.0
 MD5Sum:
  86939085e955c71eb479b74507d78919             8235 Packages
  771a84037ea4274e67780366240b1030             1853 Packages.bz2
- ccf704fbc59b82517f4c5f111b168260              228 Release
+ c7a7bdd2d05fccbce5cd4b9f35985edb              228 Release
 SHA1:
  c8f41d3f1204f199f54af0f68ff7319775bedfa9             8235 Packages
  30cc6656954089edf4de91ea8749f9f7cc3c4f6e             1853 Packages.bz2
- a11ee7f598966fe9482e07839d4bcb598b6105ce              228 Release
+ 6a31de4d585726e806d1c45b9c64d70f657d75cc              228 Release
 SHA256:
  b41dc0561b491b9c5a9c31c005299b25d5b856ac48d418b5a4f72b0ff0c31f9b             8235 Packages
  89576692f1b2b82df6708ba574bba86984a2ccc702b8394449e718f18e2f3050             1853 Packages.bz2
- 45f8f47157c9d47518606350bde69716b13051a4c278c9a0b15dcee7e5252424              228 Release
+ 76d03098d0a978b2d645db5cd38aa652bdf4c7c45bd9e5c834a3bf50424f8fe8              228 Release
 SHA512:
  4002e6ea4bd816a0251cc6e9b434d2fd77e785d1e725299b3835a7deb569e932aa418b77a1e83f087ad76412ba686a4db142182b7ff001935750817c2e8a244b             8235 Packages
  d5d4452c60bc3e24d62ad8f9da841315343840c63da5e7b87531b023d79ea65b7d10aadd80b83034dfe08cca5c3f6cf08b22b78751770f3b348a99cd26132d26             1853 Packages.bz2
- 1d8700b739ba80b42e816f22b4c71957d63c52e78345071f241643aea651b71743081d2b0c40e5658058d79c4b381e9c0a9e625f720eb7f6d24358177a6e9600              228 Release
+ 82b34e1cbd8444e76f9dd6d78cf06662d4eb1535e5fd2f7bbe7e2a618b5c182260ee101add83ad3febfdfba1d5d44e827eea6a1a7f5cdc05c95bf416b617455a              228 Release
